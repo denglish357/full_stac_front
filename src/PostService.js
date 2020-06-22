@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const url = 'api/posts/'
+const url = 'https://blooming-sea-40716.herokuapp.com/api/posts/'
 
 class PostService {
   // GET POST
